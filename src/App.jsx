@@ -12,7 +12,6 @@ function App() {
 
   return (
     <>
-      {/* Landing section (default Vite look with tweaks) */}
       <div className="landing">
         <div>
           <a href="https://vite.dev" target="_blank" rel="noreferrer">
@@ -34,7 +33,6 @@ function App() {
         </p>
       </div>
 
-      {/* Your portfolio sections */}
       <Home />
       <Skills />
       <Contact />
