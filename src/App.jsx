@@ -11,11 +11,11 @@ function App() {
 
   return (
     
-    <div>
-      <Home />
-      <Skills />
-      <Contact />
-    </div>
+    // <div>
+    //  <Home />
+    //  <Skills />
+    //  <Contact />
+    //</div>
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
